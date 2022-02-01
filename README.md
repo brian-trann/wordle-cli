@@ -12,10 +12,13 @@ node index.js
 ```
 ## Example
 Starting the game...
+
 <img src="./assets/cli-example-0.png" alt="Game directions" width="500px"/>
 
 Example 1:
+
 <img src="./assets/cli-example-1.png" alt="Gameplay"/>
 
 Example 2:
+
 <img src="./assets/cli-example-2.png" alt="Gameplay"/>
