@@ -206,7 +206,7 @@ const styleString = (text, style) => {
   await prompt(_dimContinue);
   console.log();
 
-  console.log(styleString('A new WORLD will be available each day!\n', 'bold'));
+  console.log(styleString('A new WORDLE will be available each day!\n', 'bold'));
   await prompt(styleString('Hit enter to start the game...\n', 'dim'));
   console.log('Starting game...\n');
   console.log('_ _ _ _ _\n\n');
