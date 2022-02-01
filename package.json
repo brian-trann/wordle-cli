@@ -1,0 +1,12 @@
+{
+  "name": "wordle-cli",
+  "version": "1.0.0",
+  "description": "A JavaScript CLI implementation of Wordle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "type":"module"
+}
